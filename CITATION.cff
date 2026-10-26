@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript when using this code."
+type: software
+title: "Targeted identification of memory boundaries in a neural field"
+authors:
+  - family-names: Duan
+    given-names: Xia-Guang
+  - family-names: Sun
+    given-names: Jiaxin
+  - family-names: Niu
+    given-names: Qiang

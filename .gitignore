@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+/figures/
+/tables/
+*_pilot/
+state_observations/validation.json
+joint_initial/validation.json
+joint_initial/tables/*.csv
